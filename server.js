@@ -1,1 +1,3 @@
-function Server(){}
+function Server(){
+    alert("Hello World")
+}
